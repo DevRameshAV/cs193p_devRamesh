@@ -2,9 +2,7 @@
 //  EmojiArtDocument+Palette.swift
 //  EmojiArt
 //
-//  Created by Tieda Wei on 2020-06-28.
-//  Copyright © 2020 Tieda Wei. All rights reserved.
-//
+
 
 import Foundation
 
