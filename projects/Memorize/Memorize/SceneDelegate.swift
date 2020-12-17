@@ -1,10 +1,7 @@
 //
 //  SceneDelegate.swift
 //  Memorize
-//
-//  Created by Tieda Wei on 2020-05-22.
-//  Copyright © 2020 Tieda Wei. All rights reserved.
-//
+
 
 import UIKit
 import SwiftUI
