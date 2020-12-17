@@ -2,9 +2,7 @@
 //  Pie.swift
 //  Memorize
 //
-//  Created by Tieda Wei on 2020-06-03.
-//  Copyright © 2020 Tieda Wei. All rights reserved.
-//
+
 
 import SwiftUI
 
