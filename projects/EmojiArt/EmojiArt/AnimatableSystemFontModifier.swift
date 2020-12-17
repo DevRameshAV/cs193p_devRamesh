@@ -2,8 +2,7 @@
 //  AnimatableSystemFontModifier.swift
 //  EmojiArt
 //
-//  Created by Tieda Wei on 2020-06-24.
-//  Copyright © 2020 Tieda Wei. All rights reserved.
+//  Created by Ramesh
 //
 
 import SwiftUI
